@@ -191,6 +191,7 @@ KGS-GCN
 ├── config/
 │   └── penn_action.yaml            # training / testing configuration
 ├── data/
+│   ├── Penn_Action_Dataset
 │   └── penn_action_gendata.py      # Penn Action preprocessing
 ├── feeders/
 │   └── feeder_penn.py              # dataset feeder
@@ -224,8 +225,6 @@ If you find this work useful for your research, please consider citing:
 
 This implementation is built upon the excellent open-source codebases of [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [ST-GCN](https://github.com/yysijie/st-gcn), and [BlockGCN](https://github.com/ZhouYuxuanYX/BlockGCN). We also thank the authors of [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) for inspiring the rendering formulation, and the maintainers of the NTU RGB+D, NW-UCLA, and Penn Action datasets.
 
-This work was jointly supported by the National Key R&D Program of China (2024YFB2505500), the National Natural Science Foundation of China (52272421, 52372377), and the Young Beijing Scholars Program (2024-069).
-
 ## Contact
 
-For questions about the paper or the code, please open an issue or contact Yuhan Chen at `20240701028@stu.cqu.edu.cn`.
+For questions about the paper or the code, please open an issue or contact Yuhan Chen at `cyh1217552389@gmail.com`.
