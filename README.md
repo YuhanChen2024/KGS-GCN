@@ -227,4 +227,11 @@ This implementation is built upon the excellent open-source codebases of [CTR-GC
 
 ## Contact
 
-For questions about the paper or the code, please open an issue or contact Yuhan Chen at `cyh1217552389@gmail.com`.
+For questions or collaboration, please open an issue or contact
+[Yuhan Chen](cyh1217552389@gmail.com).
+
+<div align="center">
+
+⭐ If this project helps your research, please consider giving it a star!
+
+</div>
